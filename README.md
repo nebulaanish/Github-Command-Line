@@ -16,7 +16,7 @@
 - git push origin master
 
 
-##How to initialise git in the computer:##
+## How to initialise git in the computer: ##
 1. git init
 
 Adding git username and setting up email:
