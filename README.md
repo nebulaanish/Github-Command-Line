@@ -19,18 +19,18 @@
 ## How to initialise git in the computer: ##
 1. git init
 
-Adding git username and setting up email:
+### Adding git username and setting up email:
 1. git config --global user.name "YOUR_USERNAME"
 2. git config --global user.email "your_email_address"
 
-How to check your username and email:
+### How to check your username and email:
 1. git config --global user.name
 2. git config --global user.email
 
-1."How to set proxy in git"
+### 1."How to set proxy in git"
 git config  --global http.proxy 172.16.20.2:3128
 
-2."How to unset git proxy
+### 2."How to unset git proxy
 git config --global --unset http.proxy
 
 3."How to check current git proxy
