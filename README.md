@@ -36,6 +36,7 @@ git config --global --unset http.proxy
 ### 3."How to check current git proxy
 git config --global --get http.proxy
 
+
 ## Steps to commit changes:
 
 1. git showdown (git log --decorate --oneline --all --graph)
