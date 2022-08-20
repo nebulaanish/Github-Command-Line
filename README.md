@@ -4,7 +4,7 @@
 - git config --global user.email "nebulaanish@gmail.com"
 
 - touch .gitignore
-- git init  // initialize the git project and make .git hidden folder\
+- git init  // initialize the git project and make .git hidden folder
 - git add .     //upload every files except ignored in staging area
 - git commit -m "Name of commit"
 - git status   // shows the status of project on git
