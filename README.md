@@ -11,7 +11,8 @@
 - git remote add origin [ssh link to the github]  // copy ssh link from the repository
 
 
-[one time process]// make ssh key for your pc and edit in the github global settings
+[one time process]
+// make ssh key for your pc and edit in the github global settings
 
 - git push origin master
 
