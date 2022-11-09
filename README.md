@@ -48,7 +48,7 @@ git config --global --get http.proxy
 ## Steps for branching
 For adding branch
 1. git branch [branch name]
-2. git checkout [branch name
+2. git checkout [branch name]
 3. git branch -d [branch name]
 
 ## Steps for remote:
