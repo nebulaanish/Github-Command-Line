@@ -76,14 +76,14 @@ git fetch [remote name]
 
 ## Steps to make feature branch up-to-date with main branch
 - First commit every changes into the development branch and change to main branch
-``` git checkout main ```
+1. ``` git checkout main ```
 - Fetch latest branches and their commit from remote repo
-``` git fetch -p main ```
+2. ``` git fetch -p main ```
 - merge changes from origin/main to local main branch, the local changes aren't harmed but synced with the remote repo
-``` git merge origin/main ```
+3. ``` git merge origin/main ```
 - change to feature branch
-``` git checkout <branch_name> ```
+4. ``` git checkout <branch_name> ```
 - merge recently updated local main branch to local feature branch
-``` git merge main ```
+5. ``` git merge main ```
 - text editor pops up, add a commit and then
-``` git push origin <branch_name> ```
+6. ``` git push origin <branch_name> ```
