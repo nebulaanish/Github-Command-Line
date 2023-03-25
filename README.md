@@ -7,6 +7,7 @@
 - git init  // initialize the git project and make .git hidden folder
 - git add .     //upload every files except ignored in staging area
 - git commit -m "Name of commit"
+- git log  // to see the recently commited changes in console itself
 - git status   // shows the status of project on git
 - git remote add origin [ssh link to the github]  // copy ssh link from the repository
 
