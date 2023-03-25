@@ -90,13 +90,13 @@ git fetch [remote name]
 6. ``` git push origin <branch_name> ```
 
 
-## Github Ticks
+## Github Tricks
 
 1. shows checkpoints.
- ``` git log --oneline --all --decoate --graph```
+- ``` git log --oneline --all --decoate --graph```
 
 2. how to use it as shortcut. i.e use a longeer command by using a short alias
- ``` git config --global alia.lo "log --oneline --all --decorate" ```
+- ``` git config --global alia.lo "log --oneline --all --decorate" ```
  now using 
-``` git lo ```
+- ``` git lo ```  <br>  
 we can perform the same thing as 1 by this small command.
