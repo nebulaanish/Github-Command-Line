@@ -1,7 +1,7 @@
 # Github-Command-Line--
 
-- git config --global user.name Anish
-- git config --global user.email "nebulaanish@gmail.com"   // useful to show contributions in github profile
+- git config --global user.name "your name"
+- git config --global user.email "your email"   // useful to show contributions in github profile
 
 - touch .gitignore
 - git init  // initialize the git project and make .git hidden folder
