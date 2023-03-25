@@ -88,3 +88,15 @@ git fetch [remote name]
 5. ``` git merge main ```
 - text editor pops up, add a commit and then
 6. ``` git push origin <branch_name> ```
+
+
+## Github Ticks
+
+1. shows checkpoints.
+ ``` git log --oneline --all --decoate --graph```
+
+2. how to use it as shortcut. i.e use a longeer command by using a short alias
+ ``` git config --global alia.lo "log --oneline --all --decorate" ```
+ now using 
+``` git lo ```
+we can perform the same thing as 1 by this small command.
